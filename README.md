@@ -57,3 +57,7 @@ A continuación explicaremos todos los tipos de datos que soporta TypeScript uno
 Si desean tener más información, pueden ver la documentación oficial de TypeScript sobre los tipos de datos aquí:
 
 [Documentación](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+
+### Inferir tipos y modo estricto
+
+Por default noImplicitAny viene activado en true, su funcionalidad es alertar cuando una variable ha sido declarada sin tipo de dato (any), podemos configurarlo en tsconfig.json

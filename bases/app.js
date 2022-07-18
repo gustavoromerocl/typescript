@@ -1,14 +1,12 @@
 "use strict";
-// Si usamos constantes no se asigna automaticamente un tipo de dato en typescript
-// const msg = "Hola mundo";
-let msg = "Hola mundo";
-//Esto genera un error ya que msg es de tipo string
-//msg = 4;
-//De esta forma podemos declarar una constante e indicarle el tipo de dato
-const message = "hola mundo";
-const hero = {
-    name: 'Ironman',
-    age: 45
-};
-console.log(hero.age);
-console.log(message);
+(() => {
+    const a = 10; //numbers
+    let b = 10;
+    let c; //any
+    b = 3.1416;
+    function sayHello(msg) {
+        console.log(msg);
+    }
+    sayHello("Hola mundo");
+})();
+/* TIPOS DE DATOS */
