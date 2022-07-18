@@ -1,6 +1,6 @@
 (() => {
   let avenger: any = 123;
-  const exists;
+  // const exists;
   let power;
 
   avenger = "Dr Strange";
@@ -13,6 +13,6 @@
   
   //Any no tiene restricciones de tipo de dato
   //Podemos castear el tipo de dato para habilitar la predicción de métodos
-  console.log( exists ); 
+  // console.log( exists ); 
   console.log( power );
 })()

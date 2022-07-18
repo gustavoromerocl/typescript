@@ -69,3 +69,7 @@ Por default noImplicitAny viene activado en true, su funcionalidad es alertar cu
 ### strings
 
 ### any
+
+### arrays
+
+Se debe especificar el o los tipos de datos que va a recibir el arreglo
