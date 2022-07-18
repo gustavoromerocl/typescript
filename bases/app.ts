@@ -10,4 +10,10 @@ let msg = "Hola mundo";
 //De esta forma podemos declarar una constante e indicarle el tipo de dato
 const message: string = "hola mundo";
 
+const hero = {
+  name: 'Ironman',
+  age: 45
+}
+
+console.log(hero.age);
 console.log(message);
