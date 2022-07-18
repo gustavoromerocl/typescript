@@ -61,3 +61,11 @@ Si desean tener más información, pueden ver la documentación oficial de TypeS
 ### Inferir tipos y modo estricto
 
 Por default noImplicitAny viene activado en true, su funcionalidad es alertar cuando una variable ha sido declarada sin tipo de dato (any), podemos configurarlo en tsconfig.json
+
+### booleans
+
+### numbers
+
+### strings
+
+### any
