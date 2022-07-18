@@ -48,3 +48,12 @@ Una introducción a los diferentes tipos de datos que existen en TypeScript.
 
 Y al final un exámen práctico y seguidamente un examen teórico.
 
+### Introducción a los tipos de datos
+
+### Más información sobre los tipos de datos
+
+A continuación explicaremos todos los tipos de datos que soporta TypeScript uno por uno.
+
+Si desean tener más información, pueden ver la documentación oficial de TypeScript sobre los tipos de datos aquí:
+
+[Documentación](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
