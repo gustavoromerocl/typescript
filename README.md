@@ -26,3 +26,25 @@ Estando configurado el proyecto con el archivo tsconfig, es posible transpilar t
 Typescript viene a corregir los problemas que nos puede traer lo flexible que es javascript, al correr el observador integrado nos indica en tiempo de compilación los errores que tenemos en nuestro código, a diferencia de javascript que lo hace en tiempo de ejecución.  
 
 tsc --watch o tsc -w
+
+## Tipos básicos
+
+### En esta sección aprenderemos:
+
+¿Qué son los tipos de datos?
+
+Una introducción a los diferentes tipos de datos que existen en TypeScript.  
+
+-Booleanos.
+-Números.
+-Strings.
+-Tipo Any.
+-Arreglos.
+-Tuplas.
+-Enumeraciones
+-Retorno void
+-Null
+-Undefined  
+
+Y al final un exámen práctico y seguidamente un examen teórico.
+
