@@ -73,3 +73,10 @@ Por default noImplicitAny viene activado en true, su funcionalidad es alertar cu
 ### arrays
 
 Se debe especificar el o los tipos de datos que va a recibir el arreglo
+
+### tuples - tuplas
+
+Las tuplas son arreglos con tipos de datos establecidos en sus posiciones
+
+### Enum
+
