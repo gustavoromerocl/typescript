@@ -84,3 +84,10 @@ Las tuplas son arreglos con tipos de datos establecidos en sus posiciones
 
 ### Never
 
+### Null
+
+// "strictNullChecks": true,    
+La prop strictNullChecks presente en el archivo tsconfig.json nos permite que udefied se pueda pasar a otros tipos de dato, 
+sin necesidad de especificarlo explicitamente
+
+
