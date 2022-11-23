@@ -82,3 +82,5 @@ Las tuplas son arreglos con tipos de datos establecidos en sus posiciones
 
 ### Void
 
+### Never
+

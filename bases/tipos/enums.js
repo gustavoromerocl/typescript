@@ -8,4 +8,4 @@
     })(AudioLevel || (AudioLevel = {}));
     var currentAudio = AudioLevel.medium;
     console.log(currentAudio);
-});
+})();
