@@ -97,6 +97,12 @@ Esta sección esta enfocada en aprender como trabajan las funciones en TypeScrip
 
 Puntualmente tenemos:
 
-Declaraciones básicas de funciones
-Parámetros obligatorios
-Parámetros opcionales
+- Declaraciones básicas de funciones
+- Parámetros obligatorios
+- Parámetros opcionales
+
+### Funciones básicas
+
+### Parámetros obligatorios de las funciones
+
+
