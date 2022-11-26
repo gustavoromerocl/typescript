@@ -90,4 +90,13 @@ Las tuplas son arreglos con tipos de datos establecidos en sus posiciones
 La prop strictNullChecks presente en el archivo tsconfig.json nos permite que udefied se pueda pasar a otros tipos de dato, 
 sin necesidad de especificarlo explicitamente
 
+## Funciones y Objetos
 
+¿Qué veremos en esta sección?
+Esta sección esta enfocada en aprender como trabajan las funciones en TypeScript y también nos enfocaremos en aplicar buenas prácticas a la hora de crearlas.
+
+Puntualmente tenemos:
+
+Declaraciones básicas de funciones
+Parámetros obligatorios
+Parámetros opcionales
