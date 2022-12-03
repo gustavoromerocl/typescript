@@ -111,6 +111,6 @@ Puntualmente tenemos:
 
 ### Parámetros REST
 
-
+### Tipo Función
 
 
