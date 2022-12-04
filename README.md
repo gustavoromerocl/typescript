@@ -137,3 +137,5 @@ Al final, el respectivo examen práctico y teórico.
 
 ### Tipos personalizados
 
+### Multiples tipos
+
