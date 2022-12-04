@@ -128,3 +128,7 @@ Tipos personalizados
 Crear variables que soporten varios tipos a la vez.
 Comprobar el tipo de un objeto.
 Al final, el respectivo examen práctico y teórico.
+
+### Objetos básicos
+
+
