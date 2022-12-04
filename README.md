@@ -134,3 +134,6 @@ Al final, el respectivo examen práctico y teórico.
 ### Crear objetos con tipos específicos
 
 ### Crear métodos dentro de objetos
+
+### Tipos personalizados
+
