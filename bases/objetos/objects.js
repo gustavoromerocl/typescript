@@ -8,6 +8,8 @@
     flash = {
         name: 'Otro nombre',
         age: 60,
-        powers: ['Super fuerza']
+        powers: ['Super fuerza'],
+        // getNombre: ()=>{}
     };
+    console.log('flash', flash);
 })();
