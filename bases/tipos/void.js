@@ -7,3 +7,4 @@
     var a = callBatman();
     console.log('a', a);
 });
+//# sourceMappingURL=void.js.map

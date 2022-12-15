@@ -7,3 +7,4 @@
     //Este console log no se va a ejecutar
     console.log('Hola mundo');
 })();
+//# sourceMappingURL=never.js.map

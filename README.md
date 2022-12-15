@@ -159,3 +159,7 @@ Adicionalmente tendrán el conocimiento necesario para compilar automáticamente
 ### ¿Qué es el archivo tsconfig y para que nos puede servir?
 
 https://www.typescriptlang.org/tsconfig
+
+### ¿Es posible la depurqación del códdigo de typescript?
+
+Mediante la opción sourceMap podemos apuntar las lineas de depuración de los logs a los archivos ts

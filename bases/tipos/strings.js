@@ -10,3 +10,4 @@
     // Al pasarle el operador or se valida como una expresión thruty/falsy, por lo que podemos generar una opoeración con su resultado
     console.log(((_a = batman[10]) === null || _a === void 0 ? void 0 : _a.toUpperCase()) || "No está presente");
 })();
+//# sourceMappingURL=strings.js.map

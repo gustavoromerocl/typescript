@@ -5,3 +5,4 @@
     villians.forEach(function (v) { return console.log(v.toUpperCase); });
     console.log(numbers);
 })();
+//# sourceMappingURL=arrays.js.map

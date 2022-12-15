@@ -15,3 +15,4 @@
     //Lo tipos de ocjetos definidos con la palabra reservada type en TS no son traducidos a js ya que solo existe en TS
     console.log(typeof myCustomVariable);
 })();
+//# sourceMappingURL=union-types.js.map
