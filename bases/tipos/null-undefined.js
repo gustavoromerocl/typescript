@@ -1,8 +1,0 @@
-"use strict";
-(function () {
-    var nada = undefined;
-    var isActive = undefined;
-    console.log(nada);
-    console.log(isActive);
-});
-//# sourceMappingURL=null-undefined.js.map

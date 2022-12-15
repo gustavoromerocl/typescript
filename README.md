@@ -170,3 +170,5 @@ Meadiante la opción removeComments de el archivo tsconfig podemos remover los c
 
 ### Incluir o excluir carpetas y/o archivos
 
+### outFile - Archivo de salida
+
