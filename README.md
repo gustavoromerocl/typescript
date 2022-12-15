@@ -155,3 +155,7 @@ Restringiremos al compilador que sólo vea ciertos archivos o carpetas
 Crearemos un archivo final de salida
 Aprenderemos a cambiar la version de JavaScript de salida
 Adicionalmente tendrán el conocimiento necesario para compilar automáticamente cualquier archivo que se vaya creando al momento de ser insertado a nuestro proyecto.
+
+### ¿Qué es el archivo tsconfig y para que nos puede servir?
+
+https://www.typescriptlang.org/tsconfig
