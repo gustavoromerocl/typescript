@@ -167,3 +167,6 @@ Mediante la opción sourceMap podemos apuntar las lineas de depuración de los l
 ### Remover comentarios de los archivos de javascript
 
 Meadiante la opción removeComments de el archivo tsconfig podemos remover los comentarios para el paso a producción
+
+### Incluir o excluir carpetas y/o archivos
+
