@@ -104,6 +104,6 @@
     "exclude_folder"
   ],
   "include": [
-    "ES6"
+    "classes"
   ]
 }
