@@ -22,6 +22,8 @@ var __rest = (this && this.__rest) || function (s, e) {
         var { ironman } = _a, resto = __rest(_a, ["ironman"]);
         console.log(ironman, resto);
     };
+    const avengersArr = ['Cap. América', true, 150.15];
+    const [capitan, ironman, seriaUnNumero] = avengersArr;
 })();
 (() => {
     const ironman = {
