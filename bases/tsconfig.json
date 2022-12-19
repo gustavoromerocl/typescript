@@ -103,7 +103,7 @@
   "exclude": [
     "exclude_folder"
   ],
-  // "include": [
-  //   ""
-  // ]
+  "include": [
+    "ES6"
+  ]
 }
