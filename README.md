@@ -218,3 +218,17 @@ Setters
 Métodos y propiedades estáticas
 Clases abstractas
 Constructores privados.
+
+## Sección 9: Interfaces
+
+¿Qué veremos en esta sección?
+Esta sección esta dedicada a crear interfaces, las cuales nos permitirán crear reglas o planos de como se deben de construir clases, métodos u objetos.
+
+Puntualmente aprenderemos:
+
+¿Por qué es necesario una interfaz?
+¿Cómo creamos una interfaz básica?
+Crear propiedades opcionales
+Crear métodos
+Asignar interfaces a las clases
+Al final, tendremos un examen práctico y teórico sobre las interfaces.
