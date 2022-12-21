@@ -194,7 +194,7 @@ Al final, un examen práctico y teórico para afianzar los conocimientos.
 
 ## Sección 8: Clases en typescript
 
-¿Qué veremos en esta sección?
+### ¿Qué veremos en esta sección?
 La programación orientada a objetos es un tema sumamente importante, especialmente si nuestras aplicaciones van de mediana a gran escala. TypeScript trae toda la potencia de una programación orientada a objetos a la web.
 
 Toda la sección se enfoca en enseñar sobre el uso de clases.
@@ -221,7 +221,7 @@ Constructores privados.
 
 ## Sección 9: Interfaces
 
-¿Qué veremos en esta sección?
+### ¿Qué veremos en esta sección?
 Esta sección esta dedicada a crear interfaces, las cuales nos permitirán crear reglas o planos de como se deben de construir clases, métodos u objetos.
 
 Puntualmente aprenderemos:
@@ -232,3 +232,16 @@ Crear propiedades opcionales
 Crear métodos
 Asignar interfaces a las clases
 Al final, tendremos un examen práctico y teórico sobre las interfaces.
+
+## Sección 10: Namespaces
+
+### ¿Qué veremos en esta sección?
+TypeScript, es un lenguaje de programación web, que nos permite crear objetos que nos servirán a lo largo de nuestro programa. Los namespaces, existen para ayudarnos en la re utilización de nuestras variables, constantes y métodos.
+
+Puntualmente aprenderemos sobre:
+
+Explicación del ¿por qué son necesarios los namespaces?
+Crear namespaces
+Multiples namespaces en un mismo proyecto
+Importar namespaces
+Problemática que se puede presentar utilizando un namespace.
