@@ -1,4 +1,5 @@
 import { printObject, genericFunction, genericFunctionArrow,  } from '../generics/generics';
+import { getPokemon } from '../generics/get-pokemon';
 import { Villain, Hero } from '../interfaces';
 
 // import { Hero } from './interfaces/hero';
@@ -22,5 +23,10 @@ const deadpool = {
     dangerLevel: 130
 }
 
+getPokemon(1)
+  .then( pokemon => console.log( pokemon ) )
+  .catch( error => console.error( error ) )
+  .finally( () => console.log('Fin de getPokemon')  )
 
-console.log( genericFunctionArrow<Villain>(deadpool).dangerLevel  )
+
+// console.log( genericFunctionArrow<Villain>(deadpool).dangerLevel  )

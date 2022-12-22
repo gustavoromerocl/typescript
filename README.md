@@ -282,4 +282,5 @@ Decoradores de parámetros
 ## Bibliografía
 
 [quicktype.io](https://quicktype.io/)
+[decoradores](https://www.typescriptlang.org/docs/handbook/decorators.html)
 
