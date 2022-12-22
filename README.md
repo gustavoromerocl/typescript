@@ -259,3 +259,7 @@ Ejemplos prácticos sobre los genéricos
 Arreglos genéricos
 Clases genéricas
 
+## Bibliografía
+
+[quicktype.io](https://quicktype.io/)
+
