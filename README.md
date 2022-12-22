@@ -249,6 +249,7 @@ Problemática que se puede presentar utilizando un namespace.
 ## Sección 11: Genéricos (Generics)
 
 ### ¿Qué veremos en esta sección?
+
 JavaScript por ser un lenguaje dinámico, conlleva a tener varios problemas por esa misma flexibilidad, pero a su vez, permite resolver problemas de una forma muy sencilla. Esta sección esta destinada a comprender como mantener la programación estructurada del TypeScript con el dinamismo de JavaScript.
 
 Puntualmente aprenderemos sobre:
@@ -258,6 +259,25 @@ Funciones genéricas
 Ejemplos prácticos sobre los genéricos
 Arreglos genéricos
 Clases genéricas
+
+## Sección 12: Decoradores
+
+### ¿Qué veremos en esta sección?
+
+Los decoradores son una característica nueva en el TypeScript que cada vez es más utilizada por otros frameworks como Angular 2. Pero vamos a aprender a utilizar decoradores en nuestros proyectos.
+
+Puntualmente aprenderemos sobre:
+
+¿Qué son los decoradores?
+¿Para qué sirven?
+Decoradores de clases
+Decoradores de fabrica
+Ejemplos prácticos
+Decoradores anidados
+Decoradores de métodos
+Decoradores de propiedades
+Decoradores de parámetros
+
 
 ## Bibliografía
 
